@@ -1,0 +1,15 @@
+D:\CSharp\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.exe
+D:\CSharp\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.deps.json
+D:\CSharp\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.runtimeconfig.json
+D:\CSharp\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.dll
+D:\CSharp\ExtentionMethods\bin\Debug\net6.0\ExtentionMethods.pdb
+D:\CSharp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.csproj.AssemblyReference.cache
+D:\CSharp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.AssemblyInfoInputs.cache
+D:\CSharp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.AssemblyInfo.cs
+D:\CSharp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.csproj.CoreCompileInputs.cache
+D:\CSharp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.dll
+D:\CSharp\ExtentionMethods\obj\Debug\net6.0\refint\ExtentionMethods.dll
+D:\CSharp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.pdb
+D:\CSharp\ExtentionMethods\obj\Debug\net6.0\ExtentionMethods.genruntimeconfig.cache
+D:\CSharp\ExtentionMethods\obj\Debug\net6.0\ref\ExtentionMethods.dll
